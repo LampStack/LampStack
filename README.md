@@ -17,7 +17,9 @@
 
 ## 🌐Socials
 <a href="https://t.me/LampStack"><img src="https://img.shields.io/badge/Telegram-2a7abf.svg?logo=Telegram&logoColor=blue"></a>
+<a href="mailto:xialop@outlook.com"><img src="https://img.shields.io/badge/Email-6ee0d1.svg?logo=gmail&logoColor=red"></a>
 <a href="https://instagram.com/impslt"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=Instagram&logoColor=white"></a>
+<a href="https://twitter.com/PSLT79"><img src="https://img.shields.io/badge/twitter-ffffff.svg?logo=twitter&logoColor=blue"></a>
 
 </br>
 
